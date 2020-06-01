@@ -15,12 +15,14 @@ Software: Python 3.7.6
 
 ## Summary
 The analysis of the election show that:
-   # Candidate 1: Charles Casper Stockham
-   # Candidate 2: Diana DeGette
-   # Candidate 3: Raymon Anthony Doane
+    Candidate 1: Charles Casper Stockham
+    Candidate 2: Diana DeGette
+    Candidate 3: Raymon Anthony Doane
+    
 The candidate results were:
-   # Canidate 1 received "23.0%"of the vote and "85,213" number of votes.
-   # Canidate 1 received "73.8%"of the vote and "272,892" number of votes.
-   # Canidate 1 received "3.1%"of the vote and "11,606" number of votes.
+   Canidate 1 received "23.0%"of the vote and "85,213" number of votes.
+   Canidate 1 received "73.8%"of the vote and "272,892" number of votes.
+   Canidate 1 received "3.1%"of the vote and "11,606" number of votes.
+   
 The winner of the election was:
    Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
